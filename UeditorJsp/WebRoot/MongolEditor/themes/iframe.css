@@ -1,0 +1,20 @@
+  @font-face {
+    font-family:AoyunWhite;
+    src: url('default/font/LD-MONG-BT.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+   .view{ 
+   max-height:670px;
+   max-width:800px;
+   font-family: AoyunWhite,serif;
+    writing-mode:vertical-lr;
+    -webkit-writing-mode:vertical-lr;
+    -moz-writing-mode: vertical-lr;
+    -o-writing-mode: vertical-lr;
+    -ms-writing-mode: tb-lr;
+    text-orientation: sideways-right;
+    -webkit-text-orientation: sideways-right;
+    text-justify: inter-ideograph;
+	text-align:justify;
+}
